@@ -12,4 +12,4 @@ navbar-links:
     - Latest Mafia Build: "https://ci.kolmafia.us/job/Kolmafia/"
 
 remote_theme: godalming123/minimal
-color-scheme: ["dark"]
+color-scheme: dark
